@@ -112,14 +112,20 @@ La page de connexion doit permettre à l'utilisateur de s'authentifier en utilis
 
 ---
 
-## 🎥 Vidéos Démonstratives
+### 🎥 Vidéos Démonstratives
 
-Des vidéos démonstratives sont incluses pour illustrer les principales fonctionnalités de l'application. Elles montrent l'interaction avec l'interface Flutter ainsi que la communication avec le backend.
+- **Page d'Accueil**  
+  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/homepage.mov)
 
-- **Page d'Accueil** : Présentation de la liste des shows récupérés depuis le backend.
-- **Ajouter un Show** : Démonstration du processus d'ajout d'un show à la base de données.
-- **Mettre à Jour un Show** : Explication de la mise à jour d'un show existant via l'interface.
-- **Connexion** : Vue de la page de connexion et de l’authentification.
+- **Ajouter un Show**  
+  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/adding-a-show.mov)
+
+- **Mise à jour d'un Show**  
+  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/editing-show.mov)
+
+- **Page de Connexion**  
+  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/logging-in.mov)
+
 
 ---
 
