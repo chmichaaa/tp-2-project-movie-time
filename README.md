@@ -115,16 +115,16 @@ La page de connexion doit permettre à l'utilisateur de s'authentifier en utilis
 ### 🎥 Vidéos Démonstratives
 
 - **Page d'Accueil**  
-  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/homepage.mov)
+  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/HomePage.mov)
 
 - **Ajouter un Show**  
-  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/adding-a-show.mov)
+  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/Adding-A-Show.mov)
 
 - **Mise à jour d'un Show**  
-  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/editing-show.mov)
+  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/Editing-Show.mov)
 
 - **Page de Connexion**  
-  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/logging-in.mov)
+  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/Logging-In.mov)
 
 
 ---
