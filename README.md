@@ -118,7 +118,7 @@ La page de connexion doit permettre à l'utilisateur de s'authentifier en utilis
   [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/HomePage.mov)
 
 - **Ajouter un Show**  
-  [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/Adding-A-Show.mov)
+  [Cliquez ici pour voir la vidéo]([https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/Adding-A-Show.mov](https://drive.google.com/file/d/1cRZj27FeuIdgHyqImeUlFRm7LvxzRZoK/view?usp=drive_link))
 
 - **Mise à jour d'un Show**  
   [Cliquez ici pour voir la vidéo](https://github.com/chmichaaa/tp-2-project-movie-time/blob/master/Videos/Editing-Show.mov)
